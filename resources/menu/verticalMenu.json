@@ -1,0 +1,40 @@
+{
+  "menu": [
+    {
+      "url": "/articles",
+      "name": "Articles",
+      "slug": "articles",
+      "icon": "menu-icon tf-icons ti ti-book"
+    },
+    {
+      "url": "events/calendar",
+      "name": "Events",
+      "icon": "menu-icon tf-icons ti ti-calendar",
+      "slug": "events"
+    },
+    {
+      "url": "/tickets",
+      "name": "Tickets",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "tickets"
+    },
+    {
+      "url": "/company",
+      "name": "Company Profile",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "company"
+    },
+    {
+      "url": "/company/directory",
+      "name": "Company Directory",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "company-directory"
+    },
+    {
+      "url": "/articles/founder",
+      "name": "Founder's Articles",
+      "icon": "menu-icon tf-icons ti ti-book",
+      "slug": "articles-view"
+    }
+  ]
+}
